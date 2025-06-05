@@ -14,5 +14,7 @@ El UML presentado representa a las clases que se estan utilizando en el programa
 
 Para la relación entre la clase ataque y Pokemon decidí que fuera también agregación dado que dentro de la franquicia los ataques que los Pokemon puedan aprender mediante Maquinas Ocultas (Mo's conocidas dentro de los juegos), por lo que también se tarta de un quitar y poner ataques sin que estos se terminen de eliminar del todo.
 
+Posteriormente, se crea una base de contención para datos guardados tanto de Pokemon como de Entrenadores pasados de la historia del juego, todo esto por medio de polimorfismo en la clase Pokedex.
+
 ## Bibliografía
 Quevedo, C. (2024, 4 junio). ¿Qué es RPG? PcComponentes. https://www.pccomponentes.com/que-es-un-rpg?srsltid=AfmBOoqyzW0yGn2E7u9Fr-xLzsg46MaZm5PaFl7EIw-XDpgcK3GDuzNS
